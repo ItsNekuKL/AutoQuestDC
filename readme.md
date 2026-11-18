@@ -102,3 +102,5 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 - [@discordjs](https://github.com/discordjs/discord.js) suite (`@discordjs/core`, `@discordjs/rest`, `@discordjs/ws`)
 - Open-source terminal UI libraries (`chalk`, `figlet`, `cli-table3`)
 - Community researchers investigating the Discord Quests API architecture
+
+** IB : https://github.com/lfathh/Auto-Quest-Discord
