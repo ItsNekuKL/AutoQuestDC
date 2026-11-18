@@ -1,4 +1,4 @@
-# 🎮 Auto Quest NEKU (v2.1)
+# Auto Quest NEKU (v2.1)
 
 > **⚠️ Disclaimer:** Automating user accounts (selfbots) violates Discord's Terms of Service. This software is provided strictly for educational and research purposes. Use at your own risk; the author takes no responsibility for any account restrictions or bans.
 
