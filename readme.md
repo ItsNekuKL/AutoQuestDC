@@ -8,12 +8,12 @@ An automated, modern CLI tool designed to complete active Discord Quests effortl
 
 ## ✨ Features
 
-- ⚡ **Discord Quest API v2 Compatible:** Full support for Discord's updated `task_config_v2` schema.
-- 🎯 **Presence Spoofing Engine:** Automatically broadcasts required game presence over Discord Gateway (`op: 3`) so desktop play quests register correctly.
-- 🎬 **Video Quest Automation:** Handles video quests with randomized interval pulses to simulate realistic playback progress.
-- 📊 **Interactive Terminal Dashboard:** Clean, responsive ASCII table display with live countdown timers and status indicators.
-- 🎁 **Reward Detection:** Identifies and displays earned quest rewards (Discord Orbs, avatar decorations, promo bundles).
-- 🛡️ **Safe Configuration:** Keeps sensitive credentials separated in `.env` (excluded by default via `.gitignore`).
+- **Discord Quest API v2 Compatible:** Full support for Discord's updated `task_config_v2` schema.
+- **Presence Spoofing Engine:** Automatically broadcasts required game presence over Discord Gateway (`op: 3`) so desktop play quests register correctly.
+- **Video Quest Automation:** Handles video quests with randomized interval pulses to simulate realistic playback progress.
+- **Interactive Terminal Dashboard:** Clean, responsive ASCII table display with live countdown timers and status indicators.
+- **Reward Detection:** Identifies and displays earned quest rewards (Discord Orbs, avatar decorations, promo bundles).
+- **Safe Configuration:** Keeps sensitive credentials separated in `.env` (excluded by default via `.gitignore`).
 
 ---
 
